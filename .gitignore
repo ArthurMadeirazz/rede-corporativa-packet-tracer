@@ -1,0 +1,8 @@
+# Arquivos temporarios
+*.tmp
+*.bak
+
+# Sistema
+Thumbs.db
+desktop.ini
+
