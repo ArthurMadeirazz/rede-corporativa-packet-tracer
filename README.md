@@ -133,11 +133,4 @@ rede-corporativa-packet-tracer/
 - Testar conectividade com `ping`
 - Documentar uma rede de forma mais organizada
 
-## Proximas melhorias
-
-- Criar regras de acesso entre setores com ACL
-- Adicionar servidor DNS
-- Adicionar servidor web interno
-- Simular uma rede Wi-Fi para visitantes
-- Melhorar a seguranca da rede de visitantes
 
